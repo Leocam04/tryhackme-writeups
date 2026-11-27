@@ -16,21 +16,26 @@ pasos:
 Al abrir el word nos sale este mensaje:
 
 <img width="690" height="273" alt="image" src="https://github.com/user-attachments/assets/ec60ac6b-b6e1-4985-bc4a-bea424dc6d5b" />
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 y esta imagen:
 
 <img width="722" height="557" alt="image" src="https://github.com/user-attachments/assets/4c29b67d-c7f0-4133-933a-697da34675db" />
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 2)fuí a tools/macros/edit macros
 para luego conseguirme este codigo en modulos:
 
 <img width="1221" height="190" alt="image" src="https://github.com/user-attachments/assets/3e8951c9-dcdb-4f91-bb5a-a4a576318057" />
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 3)me guié de otra pagina para pasar el codigo vb a python:
 <img width="1629" height="1115" alt="image" src="https://github.com/user-attachments/assets/7d459737-7b9a-445c-bb67-ac0fb090720b" />
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 resultado:
 def format_string() -> str:
@@ -50,7 +55,8 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
--------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+---
 
 4)por ultimo fuí a la terminal a crear un touch en .py y coloqué el codigo, al ejecutarlo obtuve la bandera.
 
